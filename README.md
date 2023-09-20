@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/angelburby" target="blank"><img align="center" src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-ar21.svg](https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png)"/></a>
+<a href="https://twitter.com/angelburby" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="angelburby" height="30" width="40"></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/angelburbanocastro/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/angelburbanocastro/" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/angelburbanocastro/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/angelburbanocastro/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
