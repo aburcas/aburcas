@@ -1,10 +1,11 @@
 ### Hi there 👋
+![angel](https://github.com/aburcas/aburcas/assets/84635858/f1860002-baa8-4ee3-b81c-0681d27dd5b3)
 
 **aburcas/aburcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at **the Nelson Center**
+- 🔭 I’m currently working and studying in **Defense** and at   **the Nelson Center** respectively
 - 🌱 I’m currently learning **medium degree in microcomputer systems and networks**
 - 👯 I’m looking to collaborate on **computer system or web development projects**
 - 🤔 I’m looking for help **to develop my carrer in the web field**
