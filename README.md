@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working and studying in **RENFE** and at   **CIDEAD** respectively
-- 🌱 I’m currently learning **HIGHER DEGREE IN MULTIPLATFORM APPLICATION DEVELOPMENT**
-- 👯 I’m looking to collaborate on **computer system or web development projects**
-- 🤔 I’m looking for help **to develop my carrer in the web field**
+- 🔭 I’m currently working in **RENFE** 
 - 💬 Ask me about **networks, microcomputer systems, build computers**
 
 <h3 align="left">Connect with me:</h3>
